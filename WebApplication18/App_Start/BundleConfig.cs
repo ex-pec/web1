@@ -4,7 +4,7 @@ using System.Web.Optimization;
 namespace WebApplication18
 {
     public class BundleConfig
-    {//osman baboş
+    {//osman baboş emre baboş
         // For more information on bundling, visit https://go.microsoft.com/fwlink/?LinkId=301862
         public static void RegisterBundles(BundleCollection bundles)
         {
