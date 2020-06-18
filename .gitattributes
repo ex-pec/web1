@@ -47,7 +47,6 @@
 
 *.js linguist-detectable=false
 *.css linguist-detectable=false
-*.cs linguist-detectable=true
 
 
 ###############################################################################
