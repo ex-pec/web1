@@ -45,7 +45,7 @@
 #*.gif   binary
 
 
-*.cs linguist-detectable=true
+*.js linguist-detectable=false
 
 
 ###############################################################################
